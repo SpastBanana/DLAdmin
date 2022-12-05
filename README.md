@@ -11,3 +11,4 @@ _DataLectro is niet aansprakelijk wanneer DLAdmin wordt geïnstalleerd op uw ins
 | Update Nr. | Persoon | Datum | Opmerking |
 | ----------- | ----------- | ----------- | ----------- |
 | 1.1 | Sebastiaan | 05-12-2022 | Git ingesteld als versie beheer en backup server. |
+| 1.2 | Sebastiaan | 05-12-2022 | Created all the projectfiles needed so far. |
